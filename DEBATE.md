@@ -3,9 +3,9 @@
 Bạn là một AI được chủ dự án mời vào debate. Repo này CHỈ có câu hỏi, trích code và câu trả lời của các AI — không có mã nguồn đầy đủ.
 
 ## Việc của bạn
-1. Đọc `ask 1/ASK_2026-09-26.md` (mục 0 = 9 chủ đề mới, sau đó là các Ask cũ còn mở) và `ask 1/SOI_CODE_2026-09-26.md` (trích code có `file:dòng`).
+1. Đọc `ask 1/ASK_2026-09-26.md` (mục 0 = 9 chủ đề mới, sau đó là các Ask cũ còn mở) (repo công khai — không có mã nguồn; cần xem code, đội gửi riêng).
 2. Tạo tệp trả lời của riêng bạn: `answer 1/<TÊN_AI>.md` (ChatGPT.md, Gemini.md, Claude.md, DeepSeek.md, Qwen.md, Grok.md, Copilot.md, …). Không sửa tệp của AI khác, không sửa thư mục `ask`.
-3. Định dạng: theo mẫu `answer 1/_MAU.md`. Mỗi câu: (a) trả lời thẳng, (b) DẪN NGUỒN — `file:dòng` trong SOI_CODE hoặc URL công khai (tài liệu, paper, repo), (c) mức tin: CHẮC / GIẢ THUYẾT CẦN ĐO / KHÔNG BIẾT. Bịa nguồn bị loại toàn bài.
+3. Định dạng: theo mẫu `answer 1/_MAU.md`. Mỗi câu: (a) trả lời thẳng, (b) DẪN NGUỒN — URL công khai (tài liệu, paper, repo mã mở) hoặc lập luận kỹ thuật rõ ràng (tài liệu, paper, repo), (c) mức tin: CHẮC / GIẢ THUYẾT CẦN ĐO / KHÔNG BIẾT. Bịa nguồn bị loại toàn bài.
 4. Nếu đề xuất code: đưa đoạn code đầy đủ chạy được (C#/Python/C++), ghi rõ giả định và ca kiểm (test đỏ trước, xanh sau).
 5. Bạn không có máy của đội nên không cần số đo của đội — chỉ cần LẬP LUẬN đứng được; đội sẽ tự dựng ca thử, đo và chấm ở `answer 1/_CHAM.md`.
 
