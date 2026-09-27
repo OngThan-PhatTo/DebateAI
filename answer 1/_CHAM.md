@@ -10,3 +10,6 @@
 | MuseSpark | Ask 1 (26/09) | chưa chấm chi tiết | — | 19 KB. Chấm sau. |
 | Qwen | ASK04-B K1–K8 + ASK01 | chưa chấm chi tiết | — | 10,6 KB, gửi dạng script Python; đề xuất ATTACH DATABASE, BEGIN IMMEDIATE + lô, WAL, lọc theo hash tệp. Chấm sau. |
 | Grok | Ask 1 | chưa chấm chi tiết | — | 45,8 KB. Chấm sau. |
+| Ox Alpha | ASK12 9 chủ đề | chưa chấm chi tiết | — | 20 KB, 3 lượt continue nối lại; ghi «không biết» rõ 7 mục; hỏi chênh 27.700.086 ⇒ đội đã giải: 27.699.978 dòng REAL ép về INT64 (giữ, không xoá). Chấm sau. |
+| DeepSeek | ASK02 35 + ASK03 16 + ASK12 + ASK04-B (2 lượt) | chưa chấm chi tiết | — | không mở được GitHub (owner dán Ask); tự nhận 2 câu thiếu (A2-04, A2-09) rồi trả nốt; đào sâu A3-01/02/03/05/07/08/12/13/15; ghi «không biết» khi không có source. Chấm sau. |
+| Manus | Ask 1 (26/09) | chưa chấm chi tiết | — | gửi dạng .docx, đội chuyển markdown. Chấm sau. |
