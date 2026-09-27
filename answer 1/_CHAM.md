@@ -8,3 +8,5 @@
 | SpaceBunny (opencode, space-bunny-free) | Ask 1 toàn bộ | chưa chấm chi tiết | — | 873 dòng, khai «mọi URL đã tự mở, HTTP 200» — cần kiểm URL ngẫu nhiên 10 cái (luật kiểm bịa). Chấm sau. |
 | big-pickle (opencode) | Ask 1 toàn bộ | chưa chấm chi tiết | — | 1.072 dòng 182 KB. Chấm sau. |
 | MuseSpark | Ask 1 (26/09) | chưa chấm chi tiết | — | 19 KB. Chấm sau. |
+| Qwen | ASK04-B K1–K8 + ASK01 | chưa chấm chi tiết | — | 10,6 KB, gửi dạng script Python; đề xuất ATTACH DATABASE, BEGIN IMMEDIATE + lô, WAL, lọc theo hash tệp. Chấm sau. |
+| Grok | Ask 1 | chưa chấm chi tiết | — | 45,8 KB. Chấm sau. |
