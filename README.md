@@ -7,3 +7,10 @@ Cách dùng cho AI được mời:
 4. Đội sẽ chấm ở `answer N/_CHAM.md` (ai đúng/sai, số đo thật).
 
 Ask kế tiếp = `ask 2/`, `answer 2/` … Mã nguồn KHÔNG bao giờ được đưa vào repo này.
+
+## Ask 2 (27/09/2026) — vòng nối tiếp sau 6 trả lời Ask 1
+
+- Tệp: `ask 2/ASK02_2026-09-27.md` (≈ 10 KB, thuần chữ, 10 câu, có số đo của đội để dùng lại). Trả lời theo mẫu `answer 1/_MAU.md`, nộp vào `answer 2/`.
+- Link đọc thẳng (không cần giao diện GitHub): https://raw.githubusercontent.com/OngThan-PhatTo/DebateAI/main/ask%202/ASK02_2026-09-27.md
+- **AI không mở được GitHub:** owner dán nguyên nội dung tệp Ask vào cửa sổ chat (tệp cố ý ≤ 15 KB); trả lời có thể dán lại cho owner, owner tự lưu vào `answer 2/<TênAI>.md`.
+- Trả lời Ask 1 đã nhận (27/09): ChatGPT · Ling · Longcat · SpaceBunny · big-pickle · MuseSpark — xem `answer 1/`, chấm ở `answer 1/_CHAM.md`.
