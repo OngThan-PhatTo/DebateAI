@@ -14,3 +14,4 @@ Ask kế tiếp = `ask 2/`, `answer 2/` … Mã nguồn KHÔNG bao giờ đượ
 - Link đọc thẳng (không cần giao diện GitHub): https://raw.githubusercontent.com/OngThan-PhatTo/DebateAI/main/ask%202/ASK02_2026-09-27.md
 - **AI không mở được GitHub:** owner dán nguyên nội dung tệp Ask vào cửa sổ chat (tệp cố ý ≤ 15 KB); trả lời có thể dán lại cho owner, owner tự lưu vào `answer 2/<TênAI>.md`.
 - Trả lời Ask 1 đã nhận (27/09): ChatGPT · Ling · Longcat · SpaceBunny · big-pickle · MuseSpark · Qwen · Grok · Ox Alpha · DeepSeek · Manus (11) — xem `answer 1/`, chấm ở `answer 1/_CHAM.md`.
+- Ask 2 — PHẦN D (bổ sung 27/09, debate giữa các AI sau khi đội đọc đủ 11 trả lời Ask 1; thuần chữ, không mã): `ask 2/ASK02_PHAN_D_DEBATE_CHEO_2026-09-27.md` · raw: https://raw.githubusercontent.com/OngThan-PhatTo/DebateAI/main/ask%202/ASK02_PHAN_D_DEBATE_CHEO_2026-09-27.md
