@@ -1,4 +1,4 @@
-# Mục lục Ask 01 cho OxAlpha — 27 tệp × 5 câu = 134 câu (gửi tuần tự, đợi trả lời rồi gửi tệp kế)
+# Mục lục Ask 01 cho OxAlpha — 63 tệp × 5 câu = 311 câu (gửi tuần tự, đợi trả lời rồi gửi tệp kế)
 
 - ASK01_OxAlpha_01.md: A1-01, A1-02, A1-03, A1-04, A1-05
 - ASK01_OxAlpha_02.md: A1-06, A1-07, A1-08, A1-09, A1-10
@@ -26,4 +26,40 @@
 - ASK01_OxAlpha_24.md: K8, O-01, O-02, O-03, O-04
 - ASK01_OxAlpha_25.md: O-05, O-06, P-01, P-02, P-03
 - ASK01_OxAlpha_26.md: T34-01, T34-02, W456-01, W456-02, W456-03
-- ASK01_OxAlpha_27.md: W456-04, T36-01, T36-02, T36-03
+- ASK01_OxAlpha_27.md: W456-04, T36-01, T36-02, T36-03, T13-01
+- ASK01_OxAlpha_28.md: T13-02, T13-03, T13-04, LG-0.6, LG-0.8
+- ASK01_OxAlpha_29.md: LG-A2-05, LG-A2-23, LG-A2-34, LG-A2-35, LG-A2-01
+- ASK01_OxAlpha_30.md: LG-A2-06, LG-A2-07, LG-A2-12, LG-A2-14, LG-A2-16
+- ASK01_OxAlpha_31.md: T13-05, LG-A2-22, LG-A2-30, LG-0.2, LG-0.3
+- ASK01_OxAlpha_32.md: LG-A2-08, LG-K2, LG-K4, LG-K7, LG-A2-02
+- ASK01_OxAlpha_33.md: LG-A2-10, LG-A2-21, T13-06, B8-LG-02, B8-LG-03
+- ASK01_OxAlpha_34.md: B8-LG-04, T13-07, NM-A2-01, NM-A2-03, NM-A2-06
+- ASK01_OxAlpha_35.md: NM-A2-14, NM-A2-17, NM-A2-32, NM-A2-34, NM-A2-35
+- ASK01_OxAlpha_36.md: NM-MA-PROFILE, NM-MA-STUB, NM-A2-13, NM-A2-18-GUONG, T13-08
+- ASK01_OxAlpha_37.md: NM-MA-C5, NM-MA-PASSGIA, NM-MA-UPDATER, T13-09, SG-A309
+- ASK01_OxAlpha_38.md: SG-A312, SG-K3-CS, SG-A301, SG-A302, SG-K3
+- ASK01_OxAlpha_39.md: SG-K5, SG-K6, SG-K7, T13-10, OX-0.1ngun
+- ASK01_OxAlpha_40.md: OX-0.4PGN, OX-0.1(a)shc, OX-0.2kho, OX-0.3bc4, OX-0.3bc6
+- ASK01_OxAlpha_41.md: OX-0.3bc78, OX-0.3giaodch, OX-0.4mu, OX-A2-16, OX-A2-32
+- ASK01_OxAlpha_42.md: T13-11, A22-02, A22-03, MS-0.1bnthua, MS-0.1ngunCPW
+- ASK01_OxAlpha_43.md: MS-0.1ngunFelicity, MS-0.1quym, MS-MA-HOMO, ES-03, ES-04
+- ASK01_OxAlpha_44.md: B8-MSA-02, T13-12, C18-BP-02, BP-0.2b/0.2c, BP-A2-0105A2-35
+- ASK01_OxAlpha_45.md: BP-A3-05, BP-A3-07, BP-ASK12-2(0.2), BP-ASK12-3(0.3), BP-ASK12-5(0.5)/K4
+- ASK01_OxAlpha_46.md: BP-A2-07, BP-A2-21, BP-AUTO-VERIFY, A1-06-BP, T13-13
+- ASK01_OxAlpha_47.md: C18-BP-03, C18-BP-04, BP1-10, T13-14, AG1-02
+- ASK01_OxAlpha_48.md: AG1-01, AG1-02b, AG1-03, AG1-09, AG1-10
+- ASK01_OxAlpha_49.md: AG1-12, AG1-15, AG1-16, T13-15, UNK-A2-02
+- ASK01_OxAlpha_50.md: C18-UN-01, C18-UN-02, T13-16, LC-0.2, LC-0.6
+- ASK01_OxAlpha_51.md: LC-A3-01, LC-A3-05, LC-A3-07, LC-A3-10, LC-A3-11
+- ASK01_OxAlpha_52.md: LC1-05, LC1-06, LC1-10, LC1-12, T13-17
+- ASK01_OxAlpha_53.md: GRK-ENG-E17, GRK-KV-4B-MANUS, GRK-KV-G22b, GRK-TB-B9, GRK-TB-T15
+- ASK01_OxAlpha_54.md: GK-0.3, GK-A3-05/06, GK-A3-07, GK-A3-09, A1-06-GK
+- ASK01_OxAlpha_55.md: T13-18, SB-0.1(a), SB-0.1(c), SB-0.2, SB-0.3(4)
+- ASK01_OxAlpha_56.md: SB-A3-05(a), C18-SB-04, C18-SB-05, C18-SB-06, SB1-5308
+- ASK01_OxAlpha_57.md: T13-19, QW-A3, QW-K2WAL, QW-K2kho, QW-K3
+- ASK01_OxAlpha_58.md: QW-K4, T13-20, CG-A3-07, CG-A2-02, CG-AUTO-VERIFY
+- ASK01_OxAlpha_59.md: KK3-02, T13-21, G47A1-L201, G47A2-B2, G47A2-C4
+- ASK01_OxAlpha_60.md: G47A2-D7, T13-22, MN-0.3, MN-A3-05, B8-MA-04
+- ASK01_OxAlpha_61.md: T13-23, DS-A3-05, DS-A3-07, T13-24, AS6-D5
+- ASK01_OxAlpha_62.md: T13-25, CL1-08, T13-26, GL-A2-14, T13-27
+- ASK01_OxAlpha_63.md: A1-06-GM
