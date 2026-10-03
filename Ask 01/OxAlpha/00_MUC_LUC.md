@@ -1,4 +1,4 @@
-# Mục lục Ask 01 cho OxAlpha — 69 tệp × 5 câu = 342 câu (gửi tuần tự, đợi trả lời rồi gửi tệp kế)
+# Mục lục Ask 01 cho OxAlpha — 69 tệp × 5 câu = 345 câu (gửi tuần tự, đợi trả lời rồi gửi tệp kế)
 
 - ASK01_OxAlpha_01.md: A1-01, A1-02, A1-03, A1-04, A1-05
 - ASK01_OxAlpha_02.md: A1-06, A1-07, A1-08, A1-09, A1-10
@@ -68,4 +68,4 @@
 - ASK01_OxAlpha_66.md: D3-15, D3-16, D3-17, D3-18, D3-19
 - ASK01_OxAlpha_67.md: D3-20, NC-01, NC-02, NC-03, NC-04
 - ASK01_OxAlpha_68.md: FS-01, FS-02, NC-05, NC-06, MT-01
-- ASK01_OxAlpha_69.md: NC-07, NC-08
+- ASK01_OxAlpha_69.md: NC-07, NC-08, SON-01, SON-02, SON-03
