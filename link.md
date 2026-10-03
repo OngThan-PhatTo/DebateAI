@@ -1,8 +1,8 @@
-# LINK ĐỌC THẲNG — Ask 01 (cập nhật 03/10/2026 07:44) — dán link này cho AI trả lời; AI không mở được GitHub thì owner dán nội dung tệp / đưa file
+# LINK ĐỌC THẲNG — Ask 01 (cập nhật 03/10/2026 07:57) — dán link này cho AI trả lời; AI không mở được GitHub thì owner dán nội dung tệp / đưa file
 
 Repo công khai chỉ chứa CÂU HỎI + TRẢ LỜI (không có mã nguồn): https://github.com/OngThan-PhatTo/DebateAI/tree/main
 
-## 1. Bộ câu hỏi đầy đủ (124 mã câu `###`)
+## 1. Bộ câu hỏi đầy đủ (126 mã câu `###`)
 - Markdown (raw, mở thẳng): https://raw.githubusercontent.com/OngThan-PhatTo/DebateAI/main/Ask%2001/ASK01_TONG_HOP_2026-10-01.md
 - Markdown (giao diện GitHub): https://github.com/OngThan-PhatTo/DebateAI/blob/main/Ask%2001/ASK01_TONG_HOP_2026-10-01.md
 - Word .docx (tải về, cùng nội dung): https://raw.githubusercontent.com/OngThan-PhatTo/DebateAI/main/Ask%2001/ASK01_TONG_HOP_2026-10-01.docx
