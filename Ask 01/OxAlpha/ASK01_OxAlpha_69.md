@@ -1,0 +1,14 @@
+# ASK 01 — bộ hỏi cho OxAlpha — tệp 69/69 (5 câu)
+
+**Bối cảnh ngắn:** đội cờ tướng của HaTrungTin (engine OngThan/Docco/Bodetosu/Nữ Oa/NhuLai, GUI TieuLongNu, BookTool, web Kỳ Viện, trainer NNUE, app Local AI có Meeting AI). Máy đích train: 192 lõi, 128–256 GB RAM, KHÔNG NVIDIA; máy sinh game: 44 lõi vật lý, 128 GB, không GPU; máy owner: AMD iGPU 8060S chạy ROCm trên Windows (torch 2.12.0a0+rocm7.13, cuda=True), 47,6 GB RAM. Bộ đầy đủ ở `ASK01_TONG_HOP_2026-10-01.md` — tệp này chỉ lấy 5 câu để OxAlpha không quên ngữ cảnh. Bản công khai (chỉ câu hỏi, không mã nguồn): https://github.com/OngThan-PhatTo/DebateAI — thư mục `Ask 01/` (tệp đầy đủ + `OxAlpha/`); đọc thẳng: https://raw.githubusercontent.com/OngThan-PhatTo/DebateAI/main/Ask%2001/ASK01_TONG_HOP_2026-10-01.md
+
+**Luật trả lời:** trả theo đúng mã câu; dẫn nguồn thật (đường dẫn + dòng hoặc URL); không chắc thì nói «không chắc» + cách kiểm; 🔴 **CẤM BỊA** (đội kiểm bằng code, bịa làm mất thời gian); trả lời xong 5 câu thì đợi tệp kế; **lưu bài dưới tên `OxAlpha_<nội dung>_<YYYYMMDD_HHMM>.md`** (tránh trùng tên).
+
+---
+
+## Câu 341 (NC-07)
+
+### NC-07 — Trợ lý + mọi ô nhập prompt (text→image / video / music) trong ComfyUI_Pro phải hiểu 10 thứ tiếng (Việt, Anh, Trung, Pháp, Nhật, Hàn, Ý, Đức, Tây Ban Nha, Thái) — làm sao để tool/AI hiểu ĐÚNG vấn đề, chạy offline?
+1. **Bối cảnh:** owner (03/10 07:5x): *«ComfyUI khi hỏi kiểu text to image, video, music… và cả hỏi AI đều dùng đa ngôn ngữ (Việt, Anh, Trung, Pháp, Nhật, Hàn, Ý, Đức, Tây Ban Nha, Thái) thì AI hay tool hiểu vấn đề»*. Hiện trợ lý ComfyUI_Pro tra kho tình huống JSON (tiếng Việt/Anh) + sẽ nối LLM local (NC-06); các model sinh ảnh/video/nhạc (SDXL/Flux/Wan/ACE-Step…) chủ yếu hiểu prompt tiếng Anh, một số hiểu tiếng Trung; máy owner AMD ROCm 47,6 GB RAM, không gọi API trả tiền; app đã có nhãn 3–4 ngôn ngữ cho nút (luật đội).
+2. **Câu hỏi:** (a) nên nhận diện ngôn ngữ + dịch yêu cầu sang «ngôn ngữ trung gian» (tiếng Anh) trước khi tra kho tình huống/LLM/model, hay dùng thẳng LLM đa ngữ hiểu 10 thứ tiếng rồi sinh prompt tiếng Anh cho model? Model local nào (cỡ ≤ 14B, chạy ROCm) đủ tốt cho cả Thái, Hàn, Nhật, Trung? (b) với prompt sinh ảnh/video/nhạc bằng tiếng Việt/Thái/Hàn…, dịch máy tự động có làm hỏng ý (thành ngữ, tên riêng, phong cách) không, và cách giữ ý (song ngữ: giữ nguyên tên riêng, thêm chú thích)? (c) cách KIỂM: bộ 50 yêu cầu × 10 thứ tiếng (cùng nghĩa) ⇒ trợ lý phải ra CÙNG kế hoạch (category/model/tham số) — ngưỡng đồng nhất bao nhiêu % là đạt; trả lời/giải thích của trợ lý nên bằng ngôn ngữ người hỏi.
+3. **Trả lời tốt trông thế nào:** kiến trúc nhận diện ngôn ngữ → dịch/LLM đa ngữ → prompt tiếng Anh cho model, gợi ý model LLM đa ngữ local cụ thể (có nguồn), bẫy dịch máy với prompt nghệ thuật, và bộ kiểm đồng nhất 10 thứ tiếng (ca theo tên, ca đỏ).

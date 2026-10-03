@@ -1,5 +1,7 @@
 # Ask / Answer — HaTrungTin (CHỈ câu hỏi và trả lời, KHÔNG có mã nguồn)
 
+**Mục lục link đọc thẳng cho mọi tệp (dán cho AI): [`link.md`](link.md)** — 124 mã câu, cập nhật 03/10/2026 07:44.
+
 Repo công khai của đội cờ tướng HaTrungTin (engine OngThan / Doccocaubai / Bodetosu / Nữ Oa / NhuLai, GUI TieuLongNu, BookTool, web Kỳ Viện, trainer NNUE, app Local AI có Meeting AI). **Chỉ giữ bộ hỏi MỚI NHẤT**; ask cũ (26–27/09) đã gỡ vì đã có trả lời và đã được gom vào bộ mới.
 
 ## Bộ hỏi hiện hành: `Ask 01/` (tổng hợp 01–02/10/2026, 134 câu)
